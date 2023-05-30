@@ -1,0 +1,16 @@
+{
+  "name": "aula_sql_ligth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe nóbrega",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
